@@ -24,9 +24,9 @@
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 
-# 📖 My Blog App <a name="about-project"></a>
+# 📖 Quiz App <a name="about-project"></a>
 
-My personal portfolio app where I showcase the development projects I have made. Built with React, CSS & HTML
+A quiz app where the user can play trying to guess the answer to random questions.
 
 ## 🛠 Built With <a name="built-with"></a>
 
