@@ -71,8 +71,6 @@ Clone this repository to your desired folder:
   git clone  https://github.com/paulinagonzalezc/quiz-app-ts
 ```
 
--
-
 ### Install
 
 Install this project with:
@@ -82,8 +80,6 @@ Install this project with:
   npm install
 ```
 
--
-
 ### Usage
 
 To run the project, execute the following command:
@@ -91,8 +87,6 @@ To run the project, execute the following command:
 ```sh
   npm start
 ```
-
--
 
 ### Run tests
 
